@@ -46,3 +46,7 @@ Use in corporate environments to send automated updates on progress.
 
 6.Survey or Poll Results
 Turn survey responses into visual summaries and export as PDFs
+
+##output
+
+<img width="826" height="346" alt="Image" src="https://github.com/user-attachments/assets/27e27c5d-abc1-4bc6-8bbc-2139ea493b1a" />
